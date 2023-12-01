@@ -1,3 +1,5 @@
+package graphs
+
 import "math"
 
 // Dijkstra finds the shortest path from start to all other nodes in the graph.
